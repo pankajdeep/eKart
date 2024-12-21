@@ -1,0 +1,27 @@
+# Compiled class files
+*.class
+
+# Logs
+*.log
+logs/
+
+# IntelliJ files
+.idea/
+*.iml
+*.iws
+
+# Target folder
+target/
+
+# Maven
+.mvn/
+!mvnw
+!mvnw.cmd
+
+# Docker
+**/data/
+*.pid
+
+# Others
+.DS_Store
+node_modules/
