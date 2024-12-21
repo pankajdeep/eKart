@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ee408a2b-0af3-42f0-abc6-39a7e6213984" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/product-service/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-service/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-service/src/main/java/com/pankaj/microservices/product/controller/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-service/src/main/java/com/pankaj/microservices/product/dto/ProductRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-service/src/main/java/com/pankaj/microservices/product/dto/ProductResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-service/src/main/java/com/pankaj/microservices/product/exception/ResourceNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-service/src/main/java/com/pankaj/microservices/product/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-service/src/main/java/com/pankaj/microservices/product/repository/ProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-service/src/main/java/com/pankaj/microservices/product/service/ProductService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/SpringaBootProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealmart/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealmart/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealmart/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealmart/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealmart/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealmart/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealmart/src/main/java/com/spring/dealmart/DealmartApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealmart/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealmart/src/test/java/com/spring/dealmart/DealmartApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/dealmart">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="dealmart" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Record" />
+        <option value="Exception" />
+        <option value="Dockerfile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;pankajdeep&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/pankajdeep/DealMart.git&quot;,
+    &quot;accountId&quot;: &quot;2cf0dd6f-3e69-475c-8102-67ce35cef31e&quot;
+  }
+}</component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2q5KQ4xhwa9Uz3ASX5WuBYqzhbz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.ProductServiceApplicationTests.executor": "Run",
+    "JUnit.ProductServiceApplicationTests.shouldCreateProduct.executor": "Debug",
+    "Maven.product-service [-v].executor": "Run",
+    "Maven.product-service [clean,install,-U].executor": "Run",
+    "Maven.product-service [clean,install].executor": "Run",
+    "Maven.product-service [clean,package].executor": "Run",
+    "Maven.product-service [clean,verify].executor": "Run",
+    "Maven.product-service [clean].executor": "Run",
+    "Maven.product-service [dependency:tree,|,grep...].executor": "Run",
+    "Maven.product-service [dependency:tree].executor": "Run",
+    "Maven.product-service [spring-boot:run].executor": "Run",
+    "Maven.product-service [validate].executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "Spring Boot.ProductServiceApplication.executor": "Debug",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/pankajdeepsahota/Documents/SpringaBootProject",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.pankaj.microservices.product.dto" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/product-service/src/main/java/com" />
+      <recent name="$PROJECT_DIR$/product-service/src/main/java/com.pankaj.microservices.product" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.pankaj.microservices.product" />
+      <recent name="com.pankaj.microservices.product.repository" />
+      <recent name="com.pankaj.microservices.product.model" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean verify" />
+      <command value="mvn spring-boot:run" />
+      <command value="mvn clean" />
+      <command value="mvn -v" />
+      <command value="mvn clean install -U" />
+      <command value="mvn validate" />
+      <command value="mvn dependency:tree | grep lombok" />
+      <command value="mvn dependency:tree" />
+      <command value="mvn clean install" />
+      <command value="mvn clean package" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ProductServiceApplication">
+    <configuration name="ProductServiceApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="product-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pankaj.microservices.product.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.pankaj.microservices.product" />
+      <option name="MAIN_CLASS_NAME" value="com.pankaj.microservices.product.ProductServiceApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductServiceApplicationTests.shouldCreateProduct" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="product-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pankaj.microservices.product.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.pankaj.microservices.product" />
+      <option name="MAIN_CLASS_NAME" value="com.pankaj.microservices.product.ProductServiceApplicationTests" />
+      <option name="METHOD_NAME" value="shouldCreateProduct" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DealmartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="dealmart.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.spring.dealmart.DealmartApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="product-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.pankaj.microservices.product.ProductServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ProductServiceApplicationTests.shouldCreateProduct" />
+        <item itemvalue="JUnit.ProductServiceApplicationTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.22562.145" />
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-IU-243.22562.145" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee408a2b-0af3-42f0-abc6-39a7e6213984" name="Changes" comment="" />
+      <created>1733946977285</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733946977285</updated>
+      <workItem from="1733946978517" duration="377000" />
+      <workItem from="1733947564953" duration="625000" />
+      <workItem from="1733948192591" duration="13000" />
+      <workItem from="1733948209453" duration="286000" />
+      <workItem from="1733948520512" duration="40000" />
+      <workItem from="1734239425721" duration="26000" />
+      <workItem from="1734239452938" duration="10314000" />
+      <workItem from="1734298272453" duration="2356000" />
+      <workItem from="1734300870078" duration="25881000" />
+      <workItem from="1734476906648" duration="1042000" />
+      <workItem from="1734477959120" duration="2312000" />
+      <workItem from="1734482697617" duration="2105000" />
+      <workItem from="1734497492606" duration="1612000" />
+      <workItem from="1734499115313" duration="4157000" />
+      <workItem from="1734503378384" duration="2754000" />
+      <workItem from="1734539675623" duration="14995000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
