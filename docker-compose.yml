@@ -2,14 +2,14 @@ version: '4'
 services:
   product-service:
     build:
-      context: product-service
-      dockerfile: product-service/Dockerfile
+      context: ./product-service
+      dockerfile: Dockerfile
     ports:
       - "8080:8080"
     depends_on:
       - mongodb
     environment:
-      SPRING_DATA_MONGODB_URI: mongodb://mongodb:27017/products
+      SPRING_DATA_MONGODB_URI: mongodb://root:root@mongodb:27017/product-service?authSource=admin
     restart: always  # Ensures the container restarts if it crashes
     networks:
       - app-network
